@@ -1,0 +1,35 @@
+Número de Parte: SN-0001 Flat
+Lote: 125-25-25
+Fecha: 18/10/2024
+Meta Diaria: 25
+Ubicación: Linea 1
+Total de Cajas: 29
+Historial: Agregada una caja. Total: 1
+Agregada una caja. Total: 2
+Agregada una caja. Total: 3
+Agregada una caja. Total: 4
+Agregada una caja. Total: 5
+Agregada una caja. Total: 6
+Agregada una caja. Total: 7
+Agregada una caja. Total: 8
+Agregada una caja. Total: 9
+Agregada una caja. Total: 10
+Agregada una caja. Total: 11
+Agregada una caja. Total: 12
+Agregada una caja. Total: 13
+Agregada una caja. Total: 14
+Agregada una caja. Total: 15
+Agregada una caja. Total: 16
+Agregada una caja. Total: 17
+Agregada una caja. Total: 18
+Agregada una caja. Total: 19
+Agregada una caja. Total: 20
+Agregada una caja. Total: 21
+Agregada una caja. Total: 22
+Agregada una caja. Total: 23
+Agregada una caja. Total: 24
+Agregada una caja. Total: 25
+Agregada una caja. Total: 26
+Agregada una caja. Total: 27
+Agregada una caja. Total: 28
+Agregada una caja. Total: 29
